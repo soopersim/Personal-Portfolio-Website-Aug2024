@@ -15,11 +15,11 @@ This is the code for my personal portfolio webpage. It showcases a little introd
 
 # Screenshots
 
-<img width="1436" alt="Screenshot 2024-08-11 at 12 38 55 AM" src="https://github.com/user-attachments/assets/95c03bc3-929f-43b4-94bc-3856b89ff82f">
+<img width="1436" alt="Screenshot 2024-08-11 at 12 38 55 AM" src="https://github.com/user-attachments/assets/a654c816-54b2-4a7e-b6dc-82b853f150a5">
 
-<img width="1440" alt="Screenshot 2024-08-11 at 12 39 04 AM" src="https://github.com/user-attachments/assets/5d7f059c-2c68-4dbd-8bc2-e365cfd2e286">
+<img width="1440" alt="Screenshot 2024-08-11 at 12 39 04 AM" src="https://github.com/user-attachments/assets/b8451546-9c4f-4ea0-9b1a-37c17252d2e7">
 
-<img width="1440" alt="Screenshot 2024-08-11 at 12 39 21 AM" src="https://github.com/user-attachments/assets/a11c621a-563d-4388-874d-7f689684fd2b">
+<img width="1440" alt="Screenshot 2024-08-11 at 12 39 21 AM" src="https://github.com/user-attachments/assets/b5836863-4f03-4a5c-8413-bc378a306556">
 
 
 # Contact
